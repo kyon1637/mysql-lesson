@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS nadake;
+CREATE TABLE nadake (a VARCHAR(10));
+INSERT INTO nadake VALUES("èºîˆ");
+INSERT INTO nadake VALUES("ésêÏ");
+INSERT INTO nadake VALUES("ãΩ");
+INSERT INTO nadake VALUES("à…ì°");
+INSERT INTO nadake VALUES("â™ìc");
